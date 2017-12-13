@@ -1,0 +1,3 @@
+C:\Users\Chu Beo\Desktop\New folder\UngLeHoaiNam-buoi9\bin\Debug\LeTrinhHoangAnhTien-buoi9.exe.config
+C:\Users\Chu Beo\Desktop\New folder\UngLeHoaiNam-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.exe
+C:\Users\Chu Beo\Desktop\New folder\UngLeHoaiNam-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.pdb

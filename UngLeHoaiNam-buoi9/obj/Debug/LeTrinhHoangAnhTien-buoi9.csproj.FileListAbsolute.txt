@@ -1,0 +1,9 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\bin\Debug\LeTrinhHoangAnhTien-buoi9.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\bin\Debug\LeTrinhHoangAnhTien-buoi9.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\bin\Debug\LeTrinhHoangAnhTien-buoi9.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\LTMTHbuoi9\LeTrinhHoangAnhTien-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.pdb
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien-buoi9\bin\Debug\LeTrinhHoangAnhTien-buoi9.exe.config
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.exe
+C:\Users\Chu Beo\Desktop\New folder\LeTrinhHoangAnhTien-buoi9\obj\Debug\LeTrinhHoangAnhTien-buoi9.pdb
